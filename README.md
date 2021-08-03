@@ -28,9 +28,7 @@ Users should be able to:
 **My desktop version**
 ![desktop version](./design/my-desktop-version.png)
 
-<br>
-
-**My mobile version**
+**My mobile version** <br>
 ![mobile version](./design/my-mobile-version.png)
 
 ### Links
